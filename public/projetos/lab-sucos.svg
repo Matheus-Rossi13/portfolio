@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#E85D2A"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2">
+    <circle cx="680" cy="80" r="160"/><circle cx="680" cy="80" r="230"/><circle cx="680" cy="80" r="300"/>
+  </g>
+  <rect x="60" y="300" width="80" height="6" rx="3" fill="#ffffff" fill-opacity="0.8"/>
+  <text x="60" y="270" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Lab Sucos</text>
+  <text x="60" y="350" font-family="monospace" font-size="20" fill="#ffffff" fill-opacity="0.75">troque por um GIF do projeto</text>
+</svg>
