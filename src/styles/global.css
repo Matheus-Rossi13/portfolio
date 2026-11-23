@@ -427,6 +427,15 @@ ol {
   object-fit: cover;
 }
 
+/* Com foto: círculo, levemente ampliado para esconder a borda do recorte original */
+.sobre__foto:has(img) {
+  border-radius: 50%;
+}
+
+.sobre__foto:has(img) img {
+  transform: scale(1.04);
+}
+
 .sobre__iniciais {
   font-family: var(--fonte-titulo);
   font-weight: 700;

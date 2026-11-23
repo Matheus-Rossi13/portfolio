@@ -8,5 +8,5 @@ export const perfil = {
   github: "https://github.com/Matheus-Rossi13",
   cidade: "Belo Horizonte, MG",
   // Coloque sua foto em public/foto.jpg e troque para "/foto.jpg"
-  foto: null,
+  foto: "/foto.jpg",
 };
