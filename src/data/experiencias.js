@@ -3,6 +3,20 @@
 
 export const experiencias = [
   {
+    id: "freela-tributo",
+    organizacao: "Tributo Advogados",
+    cargo: {
+      pt: "Desenvolvedor web freelancer",
+      en: "Freelance web developer",
+    },
+    periodo: { pt: "Nov 2026 · em andamento", en: "Nov 2026 · ongoing" },
+    descricao: {
+      pt: "Criação do site institucional de um escritório de direito tributário em Belo Horizonte: levantamento das áreas de atuação com o cliente, layout responsivo, linha do tempo da reforma tributária e contato direto por e-mail e WhatsApp.",
+      en: "Building the website of a tax law firm in Belo Horizonte: gathering the practice areas with the client, a responsive layout, a tax reform timeline and direct contact through email and WhatsApp.",
+    },
+    tipo: "freela",
+  },
+  {
     id: "extensao-pratos-de-minas",
     organizacao: "PUC Minas · Restaurante Pratos de Minas",
     cargo: {
