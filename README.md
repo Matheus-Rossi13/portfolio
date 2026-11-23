@@ -62,7 +62,7 @@
 ## 🔗 Links Úteis
 * 🌐 **Demo Online:** [Acesse o portfólio](https://matheus-rossi.vercel.app)
   > 💻 **Descrição:** Site em produção, hospedado gratuitamente na Vercel com deploy automático a cada `push` na branch `main`.
-* 🎨 **Protótipo:** [Wireframes no Figma](https://www.figma.com/SEU-LINK)
+* 🎨 **Protótipo:** [Wireframes no Figma](https://www.figma.com/design/BbCgoYq6eKXAlVDWi6kcWP/Wireframes-%E2%80%93-Portf%C3%B3lio?node-id=0-1)
   > 📐 **Descrição:** Wireframes de média fidelidade das quatro páginas, nas versões desktop e mobile, além do menu mobile aberto. Uma cópia em SVG está em [`docs/wireframes/wireframes.svg`](./docs/wireframes/wireframes.svg).
 
 ---
