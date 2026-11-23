@@ -17,6 +17,34 @@ export const experiencias = [
     tipo: "extensao",
   },
   {
+    id: "hotncode",
+    organizacao: "Hot'n Code · Hotmart",
+    cargo: {
+      pt: "Participante · conferência de tecnologia",
+      en: "Attendee · tech conference",
+    },
+    periodo: { pt: "Maio de 2026", en: "May 2026" },
+    descricao: {
+      pt: "Participação na conferência de tecnologia da Hotmart, com palestras sobre engenharia de software, arquitetura, carreira em tecnologia e networking com profissionais da área.",
+      en: "Attended Hotmart's technology conference, with talks on software engineering, architecture and tech careers, plus networking with industry professionals.",
+    },
+    tipo: "evento",
+  },
+  {
+    id: "fire-festival",
+    organizacao: "FIRE Festival · Hotmart",
+    cargo: {
+      pt: "Participante · evento de marketing digital",
+      en: "Attendee · digital marketing event",
+    },
+    periodo: { pt: "2026", en: "2026" },
+    descricao: {
+      pt: "Participação no maior evento de marketing digital da Hotmart, com palestras sobre negócios digitais, vendas online e automação. Conteúdo que conversa com meu trabalho em automações de atendimento e conversão de leads.",
+      en: "Attended Hotmart's flagship digital marketing event, with talks on digital businesses, online sales and automation. This ties into my work on customer service and lead conversion automations.",
+    },
+    tipo: "evento",
+  },
+  {
     id: "automacao-leads",
     organizacao: "Projeto independente",
     cargo: {
