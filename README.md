@@ -63,7 +63,7 @@
 * 🌐 **Demo Online:** [Acesse o portfólio](https://matheus-rossi.vercel.app)
   > 💻 **Descrição:** Site em produção, hospedado gratuitamente na Vercel com deploy automático a cada `push` na branch `main`.
 * 🎨 **Protótipo:** [Wireframes no Figma](https://www.figma.com/SEU-LINK)
-  > 📐 **Descrição:** Wireframes de média fidelidade das quatro páginas, nas versões desktop e mobile.
+  > 📐 **Descrição:** Wireframes de média fidelidade das quatro páginas, nas versões desktop e mobile, além do menu mobile aberto. Uma cópia em SVG está em [`docs/wireframes/wireframes.svg`](./docs/wireframes/wireframes.svg).
 
 ---
 
@@ -279,6 +279,10 @@ npm run lint      # verifica o código com o Oxlint
 ---
 
 ## 🎥 Demonstração
+
+### 📐 Wireframes (Figma)
+
+<img src="./docs/wireframes/wireframes.svg" alt="Wireframes de média fidelidade das páginas Sobre Mim, Projetos, Experiências e Contato, em desktop e mobile" width="800px">
 
 ### 🌐 Aplicação Web
 
