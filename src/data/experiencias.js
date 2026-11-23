@@ -1,5 +1,4 @@
 // Experiências exibidas na página "Experiências".
-// TODO: confira os períodos e acrescente estágios, freelas, eventos ou hackathons que você tiver.
 
 export const experiencias = [
   {

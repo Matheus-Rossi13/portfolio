@@ -3,7 +3,6 @@
 // então é só adicionar um novo objeto aqui para ele aparecer no lugar certo.
 //
 // imagem: coloque o GIF/print em public/projetos/ e use o caminho "/projetos/nome.gif".
-// TODO: confira as datas e os links dos repositórios antes de entregar.
 
 export const projetos = [
   {
@@ -16,7 +15,7 @@ export const projetos = [
     },
     tecnologias: ["HTML", "CSS", "JavaScript", "Figma", "Git"],
     repositorio: "https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti1-7620100-cycle-tech",
-    imagem: "/projetos/cycle-tech.svg",
+    imagem: "/projetos/cycle-tech.png",
   },
   {
     id: "tributos",
@@ -28,7 +27,7 @@ export const projetos = [
     },
     tecnologias: ["HTML", "CSS", "JavaScript", "Google Fonts"],
     repositorio: "https://github.com/Matheus-Rossi13/tributos",
-    imagem: "/projetos/tributos.svg",
+    imagem: "/projetos/tributos.png",
   },
   {
     id: "portfolio",
@@ -40,7 +39,7 @@ export const projetos = [
     },
     tecnologias: ["React", "Vite", "React Router", "React Hook Form", "EmailJS", "Vercel"],
     repositorio: "https://github.com/Matheus-Rossi13/portfolio",
-    imagem: "/projetos/portfolio.svg",
+    imagem: "/projetos/portfolio.png",
   },
 ];
 
